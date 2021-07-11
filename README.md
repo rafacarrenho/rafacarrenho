@@ -8,12 +8,15 @@ Olá, sou o **Rafael Carrenho**, desenvolvedor **Front End** especialista em **J
 
 Entre minhas habilidades que me permitem ser um profissional extremamente qualificado estão a ótima comunicação, organização, atenção aos detalhes, além de vontade e empenho para sempre estar melhorando.
 
-#### ⚔ SKILLS & TOOLS:
+#### ⚔ TECNOLOGIAS E FERRAMENTAS:
 
+<code><img width="4%" src=".github/assets/techs/js.svg"></code>
+<code><img width="4%" src=".github/assets/techs/ts.svg"></code>
 <code><img width="4%" src=".github/assets/techs/react.svg"></code>
-<code><img width="4%" src=".github/assets/techs/nodejs-icon.svg"></code>
+<code><img width="4%" src=".github/assets/techs/vue.svg"></code>
+<code><img width="4%" src=".github/assets/techs/node.svg"></code>
 <code><img width="4%" src=".github/assets/techs/html.svg"></code>
 <code><img width="4%" src=".github/assets/techs/css.png"></code>
 <code><img width="4%" src=".github/assets/techs/sass.svg"></code>
 <code><img width="4%" src=".github/assets/techs/vsCode.svg"></code>
-<code><img width="4%" src=".github/assets/techs/git.Svg"></code>
+<code><img width="4%" src=".github/assets/techs/git.svg"></code>
