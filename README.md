@@ -1,16 +1,25 @@
-<h1 align="center">
+<div align="center">
     <img alt="ProfileDetails" title="ProfileDetails" src=".github/assets/code.png" />
-</h1>
+</div>
 
-#### 👦 SOBRE MIM
+## 👦 SOBRE MIM
 
 Olá, sou o **Rafael Carrenho**, desenvolvedor **Front End** especialista em **JavaScript**, em especial com **ReactJS** e **NextJS** com mais de **2 anos de experiências** no mesmos e **8 anos de experiência** na área de **tecnologia**.
 
 Entre minhas habilidades que me permitem ser um profissional extremamente qualificado estão a ótima comunicação, organização, atenção aos detalhes, além de vontade e empenho para sempre estar melhorando.
 
----
+<br />
 
-#### ⚔ TECNOLOGIAS E FERRAMENTAS:
+## 📝 CONTATO
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carrenho/)
+[![Github](https://img.shields.io/badge/-Github-white?style=flat-square&logo=github&logoColor=black)](https://github.com/rafacarrenho)
+[![Behance](https://img.shields.io/badge/-Behance-indigo?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/rafaelcarrenho)
+[![Email](https://img.shields.io/badge/-Email-green?style=flat-square&logo=mail.ru&logoColor=white)](mailto:rafael.carrenho@hotmail.com)
+
+<br />
+
+## ⚔ TECNOLOGIAS E FERRAMENTAS
 
 <code>
     <img width="4%" alt="JavaScript" title="JavaScript" src=".github/assets/techs/js.svg">
@@ -71,7 +80,4 @@ Entre minhas habilidades que me permitem ser um profissional extremamente qualif
 </code>
 <code>
     <img width="4%" alt="Linux" title="Linux" src=".github/assets/techs/linux.svg">
-</code>
-<code>
-    <img width="4%" alt="MacOS" title="MacOS" src=".github/assets/techs/macos.svg">
 </code>
