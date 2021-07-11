@@ -10,12 +10,10 @@ Entre minhas habilidades que me permitem ser um profissional extremamente qualif
 
 #### ⚔ SKILLS & TOOLS:
 
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"></code>
+<code><img width="4%" src=".github/assets/techs/react.svg"></code>
+<code><img width="4%" src=".github/assets/techs/nodejs-icon.svg"></code>
+<code><img width="4%" src=".github/assets/techs/html.svg"></code>
 <code><img width="4%" src=".github/assets/techs/css.png"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img width="4%" src=".github/assets/techs/sass.svg"></code>
+<code><img width="4%" src=".github/assets/techs/vsCode.svg"></code>
+<code><img width="4%" src=".github/assets/techs/git.Svg"></code>
