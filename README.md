@@ -18,5 +18,9 @@ Entre minhas habilidades que me permitem ser um profissional extremamente qualif
 <code><img width="4%" src=".github/assets/techs/html.svg"></code>
 <code><img width="4%" src=".github/assets/techs/css.png"></code>
 <code><img width="4%" src=".github/assets/techs/sass.svg"></code>
+<code><img width="4%" src=".github/assets/techs/jest.svg"></code>
+<code><img width="4%" src=".github/assets/techs/cypress.svg"></code>
 <code><img width="4%" src=".github/assets/techs/vsCode.svg"></code>
 <code><img width="4%" src=".github/assets/techs/git.svg"></code>
+<code><img width="4%" src=".github/assets/techs/github.svg"></code>
+<code><img width="4%" src=".github/assets/techs/gitlab.svg"></code>
