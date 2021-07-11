@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">
+    <img alt="ProfileDetails" title="ProfileDetails" src=".github/assets/code.png" />
+</h1>
 
 <!--
 **rafacarrenho/rafacarrenho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
