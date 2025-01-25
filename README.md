@@ -4,9 +4,11 @@
 
 ## 👦 SOBRE MIM
 
-Olá, sou o **Rafael Carrenho**, desenvolvedor **Front End** especialista em **JavaScript**, em especial com **ReactJS** e **NextJS** com mais de **2 anos de experiências** no mesmos e **8 anos de experiência** na área de **tecnologia**.
+Olá, sou o **Rafael Carrenho**, desenvolvedor **Front End** especializado em **JavaScript**, com foco em **ReactJS** e **NextJS**. Ao longo da minha carreira, venho acumulando uma sólida experiência no desenvolvimento de soluções interativas e escaláveis.
 
-Entre minhas habilidades que me permitem ser um profissional extremamente qualificado estão a ótima comunicação, organização, atenção aos detalhes, além de vontade e empenho para sempre estar melhorando.
+Minhas principais habilidades incluem excelente comunicação, organização e atenção aos detalhes. Tenho um compromisso constante com a melhoria contínua, buscando sempre aprender novas tecnologias e metodologias para entregar soluções cada vez mais eficazes.
+
+Ademais, sou um profissional proativo, sempre em busca de desafios que me permitam crescer e colaborar com equipes para alcançar resultados excepcionais.
 
 <br />
 
